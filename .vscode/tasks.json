@@ -29,7 +29,7 @@
       "problemMatcher": [
         "$tsc-watch"
       ],
-      "group": {
+      "group": {n
         "kind": "build",
         "isDefault": true
       },
